@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Website
-https://yourusername.github.io/my-portfolio/
+https://24A31A4370.github.io/my-portfolio/
 
 ## ✨ Features
 - Responsive dark theme
@@ -20,4 +20,5 @@ https://yourusername.github.io/my-portfolio/
 ## 📂 Project Structure
 
 ## 👩‍💻 Author
+
 Sravya
